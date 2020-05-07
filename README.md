@@ -1,6 +1,6 @@
 # Machine Learning for Healthcare - Homework 3
 ## Overview
-The third homework of the course [Machine Learning for Healthcare](https://bmi.inf.ethz.ch/teaching/261-5120-00l-machine-learning-for-health-care-spring-2020/) deals with a medical image segmentation problem. We were tasked to do so with a [U-Net](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) and as an additional hurdle to overcome, the different images could be rotated.
+The third homework of the course [Machine Learning for Healthcare](https://bmi.inf.ethz.ch/teaching/261-5120-00l-machine-learning-for-health-care-spring-2020/) deals with a medical image segmentation problem. We ([Georgia Sourous](https://github.com/GeorgiaSou), [Rhishabh Singh](https://github.com/Rishabh-eth), [Jannik Gut](https://github.com/rostro36))  were tasked to do so with a [U-Net](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) and as an additional hurdle to overcome, the different images could be rotated.
 
 ## Explanation of files
 This explanation and all the other files are alternatively available on [GitHub](https://github.com/rostro36/ML4HC-HW3). The files should be used according to the appearence in this list.
@@ -16,3 +16,4 @@ This explanation and all the other files are alternatively available on [GitHub]
 - [Train_Evaluate_Unet_Iter_X_XX.ipynb](https://github.com/rostro36/ML4HC-HW3/blob/master/Train_Evaluate_Unet_Iter_1_nw.ipynb) are used to train and evaluate on the validation data. Each file is used for a different U-Net, the code given only differs in the "string", that encapsulates all the parameters and is also at the back of all other files, which are model specific.
 - [Evaluate_Unet_Org_Testdata.ipynb](https://github.com/rostro36/ML4HC-HW3/blob/master/Evaluate_Unet_Org_Testdata.ipynb) finally tests the model on the test data. You also have to give the identifying string, currently it is used for the big model.
 - [UnetLoss.ipynb](https://github.com/rostro36/ML4HC-HW3/blob/master/UnetLoss.ipynb) is an additional file as appendix that benchmarks different loss functions using a custom U-Net architecture.
+- [class_presentation.pdf](https://github.com/rostro36/ML4HC-HW3/blob/master/class_presentation.pdf) are the slides that were used to present our successful project in class.
