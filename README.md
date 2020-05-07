@@ -1,6 +1,6 @@
 # Machine Learning for Healthcare - Homework 3
 ## Overview
-The third homework of the course [Machine Learning for Healthcare](https://bmi.inf.ethz.ch/teaching/261-5120-00l-machine-learning-for-health-care-spring-2020/) deals with a medical image segmentation problem. We ([Georgia Sousouri](https://github.com/GeorgiaSou), [Rishabh Singh](https://github.com/Rishabh-eth), [Jannik Gut](https://github.com/rostro36))  were tasked to do so with a [U-Net](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) and as an additional hurdle to overcome, the different images could be rotated.
+The third homework of the course [Machine Learning for Healthcare](https://bmi.inf.ethz.ch/teaching/261-5120-00l-machine-learning-for-health-care-spring-2020/) deals with a medical image segmentation problem. We ([Georgia Sousouri](https://github.com/GeorgiaSou) \[[E-mail](mailto:sgeorgia@ethz.ch)\], [Rishabh Singh](https://github.com/Rishabh-eth) \[[E-mail](mailto:risingh@student.ethz.ch)\], [Jannik Gut](https://github.com/rostro36) \[[E-mail](mailto:jguta@student.ethz.ch)\])  were tasked to do so with a [U-Net](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) and as an additional hurdle to overcome, the different images could be rotated.
 
 ## Explanation of files
 This explanation and all the other files are alternatively available on [GitHub](https://github.com/rostro36/ML4HC-HW3). The files should be used according to the appearence in this list.
